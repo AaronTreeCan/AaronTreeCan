@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Aaron! 
+
+<h2>Projects:</h2>
+
+- <b>FPGA/SystemVerilog</b>
+  - [ALU](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Slot Machine](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>AI</b>
+  - [Digit Classification: Convolutional Neural Network](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <!--
-**AaronTreeCan/AaronTreeCan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
