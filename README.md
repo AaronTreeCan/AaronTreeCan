@@ -3,10 +3,10 @@
 <h2>Projects:</h2>
 
 - <b>FPGA/SystemVerilog</b>
-  - [ALU](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Slot Machine](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ALU](https://github.com/AaronTreeCan)
+  - [Slot Machine](https://github.com/AaronTreeCan/Slot-Machine)
 - <b>AI</b>
-  - [Digit Classification: Convolutional Neural Network](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Digit Classification: Convolutional Neural Network](https://github.com/AaronTreeCan/Digit-Classification)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
