@@ -3,7 +3,6 @@
 <h2>Projects:</h2>
 
 - <b>FPGA/SystemVerilog</b>
-  - [ALU](https://github.com/AaronTreeCan)
   - [Slot Machine](https://github.com/AaronTreeCan/Slot-Machine)
 - <b>AI</b>
   - [Digit Classification: Convolutional Neural Network](https://github.com/AaronTreeCan/Digit-Classification)
